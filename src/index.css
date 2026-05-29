@@ -4,6 +4,9 @@
   --bg: #fff;
   --border: #e5e4e7;
   --code-bg: #f4f3ec;
+  --background: #f4f7fb;
+  --card-bg: #fff;
+  --input-bg: #fff;
   --accent: #aa3bff;
   --accent-bg: rgba(170, 59, 255, 0.1);
   --accent-border: rgba(170, 59, 255, 0.5);
@@ -56,6 +59,9 @@
   --accent-bg: rgba(168, 85, 247, 0.16);
   --accent-border: rgba(168, 85, 247, 0.5);
   --social-bg: rgba(30, 41, 59, 0.5);
+  --background: #0f172a;
+  --card-bg: #111827;
+  --input-bg: #111827;
   --shadow:
     rgba(0, 0, 0, 0.45) 0 10px 15px -3px, rgba(0, 0, 0, 0.3) 0 4px 6px -2px;
 }
