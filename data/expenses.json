@@ -1,16 +1,16 @@
 [
   {
-    "id": 1780053358410,
-    "amount": 7977,
-    "description": "Groceries",
-    "category": "utilities",
-    "date": "2034-06-06"
-  },
-  {
     "id": 1780053511287,
     "amount": 456456,
     "description": "Groceries",
     "category": "utilities",
-    "date": "2055-04-04"
+    "date": "2001-04-04"
+  },
+  {
+    "id": 1780054067499,
+    "amount": 12.34,
+    "description": "Test expense",
+    "category": "other",
+    "date": "2025-01-05"
   }
 ]
